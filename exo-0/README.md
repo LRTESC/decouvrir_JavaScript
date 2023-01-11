@@ -26,4 +26,4 @@ Décommenter la ligne puis recharger la page.
 // console.log(myVariable);
 ```
 
-Que se passe-t-il et pourquoi ?
+Que se passe-t-il et pourquoi ? // il fallait déclarer la variable myVariable ... 
